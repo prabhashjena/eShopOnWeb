@@ -9,7 +9,7 @@ env:
   LOCATION: northeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e020d705-05e2-49a1-9670-6c27e79c6cd4
-  WEBAPP-NAME: devops-webapp-northeurope-007
+  WEBAPP-NAME: devops-webapp-northeurope-007007
 
 
 jobs:
